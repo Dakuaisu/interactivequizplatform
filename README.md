@@ -28,8 +28,8 @@ Website hosted on - (https://interactivequizplatform.vercel.app/)
 ### 1. Clond the repository
 
 ```bash
-git clone https://github.com/Dakuaisu/quiz_flow
-cd quiz-flow
+git clone https://github.com/Dakuaisu/interactivequizplatform
+cd interactivequizplatform
 ```
 ### 2. Install dependencies:
 ```bash
